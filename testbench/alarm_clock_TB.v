@@ -2,8 +2,6 @@
 // Module:      alarm_clock_TB
 // Description: Testbench for 24-hour digital alarm
 //              clock with reset and alarm functionality
-// Course:      EE411L      
-// Date:        April 2025
 // ============================================
 
 module alarm_clock_TB;
